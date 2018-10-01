@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+<?php
+	echo '<nav>';
+	include 'header.php';
+	echo '</nav>';
+?>
+</body>
+</html>
